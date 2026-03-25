@@ -9,7 +9,7 @@
  * Data is periodically sent to /__manus__/logs
  * Note: uiEvents are mirrored to sessionEvents for sessionReplay.log
  */
-(function () {
+(function () { 
   "use strict";
 
   // Prevent double initialization
