@@ -21,3 +21,4 @@
 - [x] Integrate File Storage feature (S3 upload/download)
 - [x] Write vitest tests for file storage (11 tests passing)
 - [x] Move index.html to project root and update Vite config
+- [x] Replace hero device image with user's photo (background removed)

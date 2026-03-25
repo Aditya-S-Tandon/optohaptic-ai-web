@@ -5,7 +5,7 @@
  */
 import { useEffect, useRef, useState } from 'react';
 
-const HERO_IMAGE = 'https://d2xsxph8kpxj0f.cloudfront.net/310519663473632073/gXdKyMwjAN7ij6Q2tYrLFB/hero-device-4BJ8YQvhUAte6YrrTKmZRx.webp';
+const HERO_IMAGE = 'https://d2xsxph8kpxj0f.cloudfront.net/310519663473632073/gXdKyMwjAN7ij6Q2tYrLFB/hero-device-real_7d23c602.png';
 
 export default function HeroSection() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
